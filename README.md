@@ -18,7 +18,7 @@ https://bettersmoothscroll.web.app/
 ### Install other platforms </>
 
 ```html
-<script async src="./src/bettersmoothscroll.js?v=0.0.1"></script>
+<script async src="https://bettersmoothscroll.web.app/src/bettersmoothscroll.js?v=0.0.1"></script>
 <style>
   body,
   html {
